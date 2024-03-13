@@ -304,7 +304,7 @@ body {
 .feature__3__backgroud__video__container {
     position: absolute;
     inset: 0;
-    padding: 20px; /* Add padding to the video container */
+    padding: 20px; /* Adding padding to the video container */
 }
 
 .feature__backgroud__video,
@@ -316,7 +316,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px; /* Add padding to the poster container */
+    padding: 20px; /* Adding padding to the poster container */
 }
 
 .poster__container,
@@ -336,7 +336,7 @@ body {
     width: 20%;
 }
 
-/* Additional styles for better responsiveness */
+/* Additional styles for better responsiveness by Aj */
 
 @media (max-width: 768px) {
     .feature {
@@ -353,7 +353,7 @@ body {
         flex-direction: column;
         align-items: center;
         gap: 20px;
-        padding: 20px; /* Add padding to the poster container for responsiveness */
+        padding: 20px; /* Adding padding to the poster container for responsiveness */
     }
 
     .poster__container,
@@ -373,7 +373,7 @@ body {
 }
 
 .FAQ__accordian {
-    margin-bottom: 15px; /* Add padding or margin as needed */
+    margin-bottom: 15px; /* Adding padding or margin as needed */
 }
 
 .FAQ__title {
@@ -389,8 +389,8 @@ body {
 
 .FAQ__visible {
     display: none;
-    padding: 20px; /* Adjust padding for the answer */
-    text-align: left; /* Align the answer text to the left */
+    padding: 20px; /* Adjusting padding for the answer */
+    text-align: left; /* Aligning the answer text to the left */
 }
 
-/* Add any other styles you need for the FAQ section */
+/* Add any other styles if you need for the FAQ section */
